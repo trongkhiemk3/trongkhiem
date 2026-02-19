@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/timsau/:path*",
+      "destination": "https://timsau.vercel.app/:path*"
+    }
+  ]
+}
